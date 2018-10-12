@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Home - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\CG\LOCALS~1\Temp\RSP6D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Home.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\WorkSpace\hwp일반\HWPW30\강의안\대학원\교육대학원\교안05\MFC\Home\HomeView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\CG\LOCALS~1\Temp\RSP6D.tmp" 
+Creating temporary file "C:\DOCUME~1\CG\LOCALS~1\Temp\RSP6E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Home.pdb" /debug /machine:I386 /out:"Debug/Home.exe" /pdbtype:sept 
+".\Debug\Home.obj"
+".\Debug\HomeDoc.obj"
+".\Debug\HomeView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Home.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\CG\LOCALS~1\Temp\RSP6E.tmp"
+<h3>Output Window</h3>
+Compiling...
+HomeView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Home.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
